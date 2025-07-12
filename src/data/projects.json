@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Landing Page Project",
+    "description": "Modern responsive landing page design dengan animasi smooth dan UI yang clean. Menggunakan teknologi terkini untuk performa optimal.",
+    "image": "landingpage.jpg",
+    "author": "yogamuz",
+    "link": "https://portodummy"
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce",
+    "description": "E-Commerce modern dengan desain responsif, animasi halus, dan antarmuka yang bersih. Dibangun menggunakan teknologi terkini.",
+    "image": "e-commerce.webp",
+    "author": "yogamuz",
+    "link": "https://portodummy"
+  },
+  {
+    "id": 3,
+    "title": "Money Management",
+    "description": "Aplikasi manajemen keuangan modern dengan tampilan bersih dan fitur pengelolaan keuangan intuitif.",
+    "image": "money-management.webp",
+    "author": "yogamuz",
+    "link": "https://portodummy"
+  },
+  {
+    "id": 4,
+    "title": "Landing Page Project",
+    "description": "Modern responsive landing page design dengan animasi smooth dan UI yang clean. Menggunakan teknologi terkini untuk performa optimal.",
+    "image": "landingpage.jpg",
+    "author": "yogamuz",
+    "link": "https://portodummy"
+  },
+  {
+    "id": 5,
+    "title": "E-Commerce",
+    "description": "E-Commerce modern dengan desain responsif, animasi halus, dan antarmuka yang bersih. Dibangun menggunakan teknologi terkini.",
+    "image": "e-commerce.webp",
+    "author": "yogamuz",
+    "link": "https://portodummy"
+  },
+  {
+    "id": 6,
+    "title": "Money Management",
+    "description": "Aplikasi manajemen keuangan modern dengan tampilan bersih dan fitur pengelolaan keuangan intuitif.",
+    "image": "money-management.webp",
+    "author": "yogamuz",
+    "link": "https://portodummy"
+  }
+]
