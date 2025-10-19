@@ -39,7 +39,7 @@
             <div class="rounded-full p-1 bg-white">
               <!-- Main image with shadow -->
               <img
-                src="../assets/avatar.jpg"
+                src="../assets/avatars.jpg"
                 alt="Hero Image"
                 class="rounded-full w-48 h-48 md:w-56 md:h-56 object-cover border-4 border-white shadow-2xl transform group-hover:-rotate-3 transition-transform duration-300"
               />
