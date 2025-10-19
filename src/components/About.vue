@@ -17,7 +17,7 @@
 
           <!-- Landscape Image (visible on mobile) -->
           <img
-            src="../assets/landscape.jpeg"
+            src="../assets/landscape.jpg"
             alt="Profile Landscape"
             class="lg:hidden w-full h-64 object-cover"
           />
