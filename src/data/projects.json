@@ -1,50 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Landing Page Project",
-    "description": "Modern responsive landing page design dengan animasi smooth dan UI yang clean. Menggunakan teknologi terkini untuk performa optimal.",
-    "image": "landingpage.jpg",
-    "author": "yogamuz",
-    "link": "https://portodummy"
-  },
-  {
-    "id": 2,
     "title": "E-Commerce",
-    "description": "E-Commerce modern dengan desain responsif, animasi halus, dan antarmuka yang bersih. Dibangun menggunakan teknologi terkini.",
-    "image": "e-commerce.webp",
+    "description": "Proyek pertama saya berupa website e-commerce dengan desain responsif dan antarmuka yang bersih. Dibangun menggunakan Vue.js, Vite, Tailwind CSS, Express.js, Node.js, dan MongoDB.",
+    "image": "https://res.cloudinary.com/dzfqsajp3/image/upload/v1760853594/Screenshot_2025-10-19_125934_vfa5li.png",
     "author": "yogamuz",
-    "link": "https://portodummy"
-  },
-  {
-    "id": 3,
-    "title": "Money Management",
-    "description": "Aplikasi manajemen keuangan modern dengan tampilan bersih dan fitur pengelolaan keuangan intuitif.",
-    "image": "money-management.webp",
-    "author": "yogamuz",
-    "link": "https://portodummy"
-  },
-  {
-    "id": 4,
-    "title": "Landing Page Project",
-    "description": "Modern responsive landing page design dengan animasi smooth dan UI yang clean. Menggunakan teknologi terkini untuk performa optimal.",
-    "image": "landingpage.jpg",
-    "author": "yogamuz",
-    "link": "https://portodummy"
-  },
-  {
-    "id": 5,
-    "title": "E-Commerce",
-    "description": "E-Commerce modern dengan desain responsif, animasi halus, dan antarmuka yang bersih. Dibangun menggunakan teknologi terkini.",
-    "image": "e-commerce.webp",
-    "author": "yogamuz",
-    "link": "https://portodummy"
-  },
-  {
-    "id": 6,
-    "title": "Money Management",
-    "description": "Aplikasi manajemen keuangan modern dengan tampilan bersih dan fitur pengelolaan keuangan intuitif.",
-    "image": "money-management.webp",
-    "author": "yogamuz",
-    "link": "https://portodummy"
+    "link": "https://shopcarts1.netlify.app/"
   }
 ]

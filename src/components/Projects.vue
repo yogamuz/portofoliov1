@@ -3,10 +3,9 @@
     <div class="max-w-5xl mx-auto px-6 text-center text-white">
       <h1 class="text-3xl font-bold mb-4">Featured Project</h1>
       <p class="text-base leading-relaxed">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda,
-        repudiandae! At amet molestiae culpa quaerat illum iusto. Rem, amet
-        distinctio! Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet
-        consectetur, adipisicing elit. Perferendis, laudantium.
+        A collection of my featured projects that represent my growth as a web
+        developer. Each project demonstrates my focus on clean design,
+        functionality, and improving the overall user experience.
       </p>
     </div>
 

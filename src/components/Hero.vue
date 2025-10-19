@@ -7,11 +7,11 @@
       <div class="hero-content text-center lg:text-left flex-1">
         <div>
           <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-2 text-white">
-            I am <span class="text-[color:#bd9f67]">Yogamuz</span>
+            I am <span class="text-[color:#bd9f67]">Prayogo</span>
           </h1>
-          <p class="py-3 text-lg font-medium text-white">Frontend Web Dev</p>
+          <p class="py-3 text-lg font-medium text-white">Web Developer</p>
           <p class="pb-6 text-white">
-            I have keep interest in Frontend Web Developer, believing that
+            I have keep interest in Web Development, believing that
             presenting an attractive design is crucial for a website. I am
             always eager to learn new things and improve my skills.
           </p>
